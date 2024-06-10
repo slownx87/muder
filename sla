@@ -1,61 +1,63 @@
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage1.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage2.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage3.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage4.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage5.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage6.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage7.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage8.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage9.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage10.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage11.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage12.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage13.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage14.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage15.WinPart.Position)
 
-wait(0.05)
+wait(0.25)
 
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace").Teleporters.Stage16.WinPart.Position)
+
+wait(0.25)
